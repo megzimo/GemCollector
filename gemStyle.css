@@ -1,0 +1,51 @@
+body{
+    background: url(assets/images/gemstones.jpg);
+}
+
+.title{
+    background-color: #c1a460;
+    border-radius: 2em;
+    border-color: #153858;
+    padding: 2em;
+}
+
+.storyline{
+    background-color: #c1a460;
+    border: 1px solid #153858;
+    padding: 2em;
+}
+
+.traget-score{
+    background-color: #c1a460;
+    border-color: 1px solid #153858;
+    padding: 2em;
+}
+
+.value-goal{
+    background-color: #c1a460;
+    border-color: 1px solid #153858;
+    padding: 2em;
+}
+
+.win-loss-count{
+    background-color: #c1a460;
+    border-color: 1px solid #153858;
+    padding: 2em;
+}
+
+.button-img{
+    height: 110px;
+    width: 100px;
+}
+
+.row.gem-buttons{
+    margin-left: 10%
+}
+
+.gem-buttons{
+    background-color: #b2bfe2;
+    border-radius: 2em;
+    border-color: #153858;
+    padding: 2em;
+    width: 70%;
+}
